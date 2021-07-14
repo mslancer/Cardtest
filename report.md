@@ -7,14 +7,16 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующий дефект:
-* https://github.com/mslancer/Cardtest/issues/1
+* [issues]( https://github.com/mslancer/Cardtest/issues/1)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* card2
+* IntelliJ IDEA
+* Техническое задание
+* Тест-кейс
 
-В качестве тестовых данных использовались данные https://www.freeformatter.com/credit-card-number-generator-validator.html:
+В качестве тестовых данных использовались данные [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html):
 * 4929702390092766 - Программа выдает результат
   Result is OK
 * 4916505118021214 - Программа выдает результат
